@@ -1,19 +1,4 @@
-***PERFIL HOLA***
-**hola**
-*que tal*_**hola**
-
-1. *a*
-2. **b**
-3. ***abc***
-4. _lista ordena_
+## bienvenido a mi perfil de practica
 ---
-| colum1 | colum2 | colum3 |
-|--------|--------|--------|
-|dato1   |dato2   |dato3   |
-
-- [x] **tarea1**
-
-- ### hola ###
-- _2_
-- __3__ 
-mmmm
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![](https://github-readme-stats.vercel.app/api?username=fr3axx&theme=github_algolia_border=false&include_all_commits=false&count_private=false)<br/>
